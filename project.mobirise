@@ -54,7 +54,7 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/leon-128x49-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/leon-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
