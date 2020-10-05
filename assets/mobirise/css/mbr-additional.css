@@ -627,12 +627,12 @@ section.lazy-placeholder:after {
 }
 .cid-saAPj6ugHZ .navbar {
   padding: .5rem 0;
-  background: #fff501;
+  background: #ffff00;
   transition: none;
   min-height: 77px;
 }
 .cid-saAPj6ugHZ .navbar-dropdown.bg-color.transparent.opened {
-  background: #fff501;
+  background: #ffff00;
 }
 .cid-saAPj6ugHZ a {
   font-style: normal;
@@ -723,7 +723,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-saAPj6ugHZ .dropdown .dropdown-menu {
-  background: #fff501;
+  background: #ffff00;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1026,13 +1026,13 @@ section.lazy-placeholder:after {
   color: #ff3366 !important;
 }
 .cid-saAQTZw6A5 {
-  background-image: url("../../../assets/images/gelb-2000x1250.jpg");
+  background-color: #ffff00;
 }
 .cid-saAQTZw6A5 .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
 .cid-saAQTZw6A5 .media-container-column {
-  background-color: #fff501;
+  background-color: #ffff00;
 }
 @media (max-width: 767px) {
   .cid-saAQTZw6A5 .media-container-column {
