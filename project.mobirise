@@ -43,15 +43,16 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://leon345.github.io/info",
     "cookiesAlert": false,
-    "gdpr": false,
     "uniqCompNum": 7,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
